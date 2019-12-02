@@ -1,0 +1,317 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1894px;
+	 height: 1365px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1894px;
+	 height: 1365px;
+	 z-index:1;
+} 
+
+ #Container 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1894px;
+	 height: 700px;
+	 z-index:2;
+} 
+
+ #loading07 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1894px;
+	 height: 646px;
+	 z-index:3;
+} 
+
+ #Overlay 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1894px;
+	 height: 700px;
+	 z-index:4;
+} 
+
+ #Fade 
+{ 
+	 left: 0px; 
+	 top: 338px; 
+	 position: absolute; 
+	 width: 1894px;
+	 height: 362px;
+	 z-index:5;
+} 
+
+ #Card 
+{ 
+	 left: 199px; 
+	 top: 193px; 
+	 position: absolute; 
+	 width: 1496px;
+	 height: 1066px;
+	 z-index:6;
+} 
+
+ #Battania 
+{ 
+	 left: 1383px; 
+	 top: 433px; 
+	 position: absolute; 
+	 width: 88px;
+	 height: 604px;
+	 z-index:7;
+} 
+
+ #Descriptiontext 
+{ 
+	 left: 964px; 
+	 top: 628px; 
+	 position: absolute; 
+	 width: 462px;
+	 height: 108px;
+	 z-index:8;
+} 
+
+ #Descriptiontextcopy 
+{ 
+	 left: 965px; 
+	 top: 757px; 
+	 position: absolute; 
+	 width: 357px;
+	 height: 16px;
+	 z-index:9;
+} 
+
+ #Line 
+{ 
+	 left: 966px; 
+	 top: 614px; 
+	 position: absolute; 
+	 width: 446px;
+	 height: 1px;
+	 z-index:10;
+} 
+
+ #Description 
+{ 
+	 left: 1016px; 
+	 top: 591px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 13px;
+	 z-index:11;
+} 
+
+ #VideogameclanforMoun 
+{ 
+	 left: 1015px; 
+	 top: 482px; 
+	 position: absolute; 
+	 width: 393px;
+	 height: 19px;
+	 z-index:12;
+} 
+
+ #Corner 
+{ 
+	 left: 432px; 
+	 top: 436px; 
+	 position: absolute; 
+	 width: 500px;
+	 height: 601px;
+	 z-index:13;
+} 
+
+ #Sheild 
+{ 
+	 left: 429px; 
+	 top: 520px; 
+	 position: absolute; 
+	 width: 467px;
+	 height: 494px;
+	 z-index:14;
+} 
+
+ #AnoceaniaBannerlordc 
+{ 
+	 left: 805px; 
+	 top: 276px; 
+	 position: absolute; 
+	 width: 277px;
+	 height: 15px;
+	 z-index:15;
+} 
+
+ #KingdomofBattania 
+{ 
+	 left: 432px; 
+	 top: 88px; 
+	 position: absolute; 
+	 width: 1029px;
+	 height: 163px;
+	 z-index:16;
+} 
+
+ #Linecopy 
+{ 
+	 left: 672px; 
+	 top: 59px; 
+	 position: absolute; 
+	 width: 568px;
+	 height: 1px;
+	 z-index:17;
+} 
+
+ #Contactus 
+{ 
+	 left: 1143px; 
+	 top: 44px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 11px;
+	 z-index:18;
+} 
+
+ #Team 
+{ 
+	 left: 1074px; 
+	 top: 43px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 11px;
+	 z-index:19;
+} 
+
+ #musterroll 
+{ 
+	 left: 955px; 
+	 top: 44px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 11px;
+	 z-index:20;
+} 
+
+ #JOIN 
+{ 
+	 left: 898px; 
+	 top: 44px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 11px;
+	 z-index:21;
+} 
+
+ #Screenshots 
+{ 
+	 left: 774px; 
+	 top: 44px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 11px;
+	 z-index:22;
+} 
+
+ #Shape 
+{ 
+	 left: 669px; 
+	 top: 36px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 27px;
+	 z-index:23;
+} 
+
+ #HOME 
+{ 
+	 left: 681px; 
+	 top: 44px; 
+	 position: absolute; 
+	 width: 41px;
+	 height: 11px;
+	 z-index:24;
+} 
+
+ #Circle 
+{ 
+	 left: 1494px; 
+	 top: 30px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 39px;
+	 z-index:25;
+} 
+
+ #Icon 
+{ 
+	 left: 1503px; 
+	 top: 41px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 18px;
+	 z-index:26;
+} 
+
+ #Circle_0 
+{ 
+	 left: 1448px; 
+	 top: 30px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 39px;
+	 z-index:27;
+} 
+
+ #Logo 
+{ 
+	 left: 1458px; 
+	 top: 40px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 19px;
+	 z-index:28;
+} 
+
+ #Circle_1 
+{ 
+	 left: 1402px; 
+	 top: 30px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 39px;
+	 z-index:29;
+} 
+
+ #Logo_0 
+{ 
+	 left: 1416px; 
+	 top: 40px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 19px;
+	 z-index:30;
+} 
